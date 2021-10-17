@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Game Engines and Graphic Systems
 
 Check out my [University Profile](https://github.com/seb-ctech) for more recent projects. 
+Or get in touch over my [Website](https://www.thelayeredmind.space/)
 
 <!---
 thelayeredmind/thelayeredmind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
