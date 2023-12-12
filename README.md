@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @thelayeredmind
-- 👀 I’m interested in Programming Languages, Paradigms, Software Architecture, Programming Workflows and Creative Coding
-- 🌱 I’m currently learning Graphics Programming and Functional Programming
-- 💞️ I’m looking to collaborate on Game Engines and Graphic Systems
+- 👀 I’m interested in Programming Languages, Cognition, Philosophy and Art and the waste oasis of topics inbetween
+- 🌱 I’m currently trying to become a polyglot, learning concepts from new languages and applying them to my personal projects
+- 💞️ I’m looking to collaborate on creative applications of all forms, to hone my language knowledge
 
 Check out my [University Profile](https://github.com/seb-ctech) for more recent projects. 
-Or get in touch over my [Website](https://www.thelayeredmind.space/)
+Or get in touch over my [Website](https://www.thelayeredmind.space/). Check out my [Digital Garden](https://inside.thelayeredmind.space/)
+where I share my thoughts about my main interests and report on many projects.
 
 <!---
 thelayeredmind/thelayeredmind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
