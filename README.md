@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thelayeredmind
-- 👀 I’m interested in Programming Languages, Cognition, Philosophy and Art and the waste oasis of topics inbetween
+- 👀 I’m interested in Programming Languages, Cognition, Philosophy and Art and the vast oasis of topics inbetween
 - 🌱 I’m currently trying to become a polyglot, learning concepts from new languages and applying them to my personal projects
 - 💞️ I’m looking to collaborate on creative applications of all forms, to hone my language knowledge
 
